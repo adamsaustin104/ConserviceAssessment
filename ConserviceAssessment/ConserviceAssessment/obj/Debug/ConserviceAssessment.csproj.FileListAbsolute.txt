@@ -1,0 +1,10 @@
+D:\WebProjects\ConserviceAssessment\ConserviceAssessment\bin\Debug\ConserviceAssessment.exe.config
+D:\WebProjects\ConserviceAssessment\ConserviceAssessment\bin\Debug\ConserviceAssessment.exe
+D:\WebProjects\ConserviceAssessment\ConserviceAssessment\bin\Debug\ConserviceAssessment.pdb
+D:\WebProjects\ConserviceAssessment\ConserviceAssessment\obj\Debug\ConserviceAssessment.csprojAssemblyReference.cache
+D:\WebProjects\ConserviceAssessment\ConserviceAssessment\obj\Debug\ConserviceAssessment.Form1.resources
+D:\WebProjects\ConserviceAssessment\ConserviceAssessment\obj\Debug\ConserviceAssessment.Properties.Resources.resources
+D:\WebProjects\ConserviceAssessment\ConserviceAssessment\obj\Debug\ConserviceAssessment.csproj.GenerateResource.cache
+D:\WebProjects\ConserviceAssessment\ConserviceAssessment\obj\Debug\ConserviceAssessment.csproj.CoreCompileInputs.cache
+D:\WebProjects\ConserviceAssessment\ConserviceAssessment\obj\Debug\ConserviceAssessment.exe
+D:\WebProjects\ConserviceAssessment\ConserviceAssessment\obj\Debug\ConserviceAssessment.pdb
